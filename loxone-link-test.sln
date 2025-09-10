@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loxone-link-dotnet", "loxone-link-dotnet\loxone-link-dotnet.csproj", "{39228288-DD16-F848-8BF3-BCDDAA4B1AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loxone-link-test", "loxone-link-test\loxone-link-test.csproj", "{C9DAAB93-A000-96FF-CAD1-BADF05AFAB05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39228288-DD16-F848-8BF3-BCDDAA4B1AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39228288-DD16-F848-8BF3-BCDDAA4B1AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39228288-DD16-F848-8BF3-BCDDAA4B1AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39228288-DD16-F848-8BF3-BCDDAA4B1AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9DAAB93-A000-96FF-CAD1-BADF05AFAB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DAAB93-A000-96FF-CAD1-BADF05AFAB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DAAB93-A000-96FF-CAD1-BADF05AFAB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DAAB93-A000-96FF-CAD1-BADF05AFAB05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4A32016-15E0-402C-AF6A-D4592AF893E0}
+	EndGlobalSection
+EndGlobal
